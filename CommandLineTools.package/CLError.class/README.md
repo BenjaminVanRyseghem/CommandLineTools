@@ -1,0 +1,1 @@
+I am an abstract error class for the command line tools

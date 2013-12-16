@@ -1,0 +1,14 @@
+{
+	"category" : "CommandLineTools-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CLError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "CommandLineTools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"description",
+		"arguments" ],
+	"name" : "CLParameterBinding",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

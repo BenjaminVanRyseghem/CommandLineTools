@@ -1,0 +1,1 @@
+I am a resolver with in addition of argument consider a single input word

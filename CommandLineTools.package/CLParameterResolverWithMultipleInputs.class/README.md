@@ -1,0 +1,1 @@
+I am a resolver taking as many inputs as possible

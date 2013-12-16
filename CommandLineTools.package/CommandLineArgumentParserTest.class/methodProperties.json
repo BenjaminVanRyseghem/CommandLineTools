@@ -1,0 +1,6 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testParseWithEscape" : "BenjaminVanRyseghem 12/16/2013 00:32",
+		"testParseWithNoEscape" : "BenjaminVanRyseghem 12/16/2013 01:04" } }

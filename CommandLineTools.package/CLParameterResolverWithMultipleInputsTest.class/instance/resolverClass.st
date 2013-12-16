@@ -1,0 +1,3 @@
+initialize
+resolverClass
+	^ CLParameterResolverWithMultipleInputs

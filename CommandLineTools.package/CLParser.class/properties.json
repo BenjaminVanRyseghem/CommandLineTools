@@ -1,0 +1,18 @@
+{
+	"category" : "CommandLineTools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"escapingCharacter",
+		"isEscaping",
+		"tokens",
+		"string",
+		"temp" ],
+	"name" : "CLParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

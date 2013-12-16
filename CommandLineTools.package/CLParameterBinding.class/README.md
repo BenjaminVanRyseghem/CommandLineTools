@@ -1,0 +1,1 @@
+I am the output of the resolving process, providing a simple association between an argument description and its parameters found during the process

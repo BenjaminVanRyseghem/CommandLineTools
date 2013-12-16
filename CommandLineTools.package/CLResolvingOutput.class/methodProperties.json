@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addBinding:" : "BenjaminVanRyseghem 12/14/2013 15:16",
+		"bindings" : "BenjaminVanRyseghem 12/14/2013 15:16",
+		"hasOption:" : "BenjaminVanRyseghem 12/14/2013 19:52",
+		"hasOption:ifAbsent:" : "BenjaminVanRyseghem 12/14/2013 19:53",
+		"hasOption:ifPresent:" : "BenjaminVanRyseghem 12/14/2013 19:37",
+		"hasOption:ifPresent:ifAbsent:" : "BenjaminVanRyseghem 12/14/2013 19:53",
+		"initialize" : "BenjaminVanRyseghem 12/14/2013 15:16" } }

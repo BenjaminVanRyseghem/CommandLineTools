@@ -1,0 +1,1 @@
+I am an output considering that one token is an input

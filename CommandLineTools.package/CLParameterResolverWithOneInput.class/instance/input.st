@@ -1,0 +1,4 @@
+private
+input
+
+	^ output input

@@ -1,0 +1,14 @@
+{
+	"category" : "CommandLineTools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"contents" ],
+	"name" : "CLToken",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "CommandLineTools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"copy",
+		"descriptions",
+		"output" ],
+	"name" : "CLParameterResolver",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "CommandLineTools-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"resolver",
+		"to",
+		"output" ],
+	"name" : "CommandLineParameterResolverTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

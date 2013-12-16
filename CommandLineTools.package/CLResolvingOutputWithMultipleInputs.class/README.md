@@ -1,0 +1,1 @@
+I am an output considering that multiples tokens are inputs

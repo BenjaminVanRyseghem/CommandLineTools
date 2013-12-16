@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"resolverClass" : "BenjaminVanRyseghem 12/14/2013 15:46",
+		"testResolveBindsCorrectly" : "BenjaminVanRyseghem 12/16/2013 00:46",
+		"testResolveBindsCorrectlyWithMultipleInputs" : "BenjaminVanRyseghem 12/16/2013 00:46",
+		"testResolveRequiresMoreParameterThatProvided" : "BenjaminVanRyseghem 12/16/2013 01:44",
+		"testResolveRequiresMoreParameterThatProvidedAndTokensIsEmpty" : "BenjaminVanRyseghem 12/16/2013 01:45",
+		"testResolveRequiresMoreParameterThatProvidedToken" : "BenjaminVanRyseghem 12/16/2013 01:44",
+		"testResolveWithUnresolvableKeyWordErrorIsCorrect" : "BenjaminVanRyseghem 12/16/2013 00:46",
+		"testResolveWithUnresolvableKeyWordRaiseAnError" : "BenjaminVanRyseghem 12/16/2013 00:38" } }

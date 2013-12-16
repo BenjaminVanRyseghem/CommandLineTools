@@ -1,0 +1,14 @@
+{
+	"category" : "CommandLineTools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"input" ],
+	"name" : "CLResolvingOutputWithOneInput",
+	"pools" : [
+		 ],
+	"super" : "CLResolvingOutput",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addToTemp:" : "BenjaminVanRyseghem 12/14/2013 13:06",
+		"addToToken" : "BenjaminVanRyseghem 12/16/2013 00:31",
+		"defaultEscapingCharacter" : "BenjaminVanRyseghem 12/14/2013 11:37",
+		"escapingCharacter" : "BenjaminVanRyseghem 12/14/2013 13:04",
+		"escapingCharacter:" : "BenjaminVanRyseghem 12/14/2013 13:04",
+		"initialize" : "BenjaminVanRyseghem 12/14/2013 13:07",
+		"isEscaping" : "BenjaminVanRyseghem 12/14/2013 13:04",
+		"isEscaping:" : "BenjaminVanRyseghem 12/14/2013 13:04",
+		"parse" : "BenjaminVanRyseghem 12/14/2013 13:10",
+		"parseCharacter:" : "BenjaminVanRyseghem 12/14/2013 13:03",
+		"releaseTemp" : "BenjaminVanRyseghem 12/14/2013 13:08",
+		"string:" : "BenjaminVanRyseghem 12/14/2013 13:04" } }

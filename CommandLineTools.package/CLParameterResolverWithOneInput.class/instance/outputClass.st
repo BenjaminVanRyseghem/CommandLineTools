@@ -1,0 +1,4 @@
+initialize
+outputClass
+
+	^ CLResolvingOutputWithOneInput

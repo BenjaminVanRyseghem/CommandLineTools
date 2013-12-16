@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"parse:" : "BenjaminVanRyseghem 12/14/2013 16:45",
+		"parseDescriptions:" : "BenjaminVanRyseghem 12/14/2013 16:42" },
+	"instance" : {
+		"description" : "BenjaminVanRyseghem 12/14/2013 13:49",
+		"description:" : "BenjaminVanRyseghem 12/14/2013 13:49",
+		"initialize" : "BenjaminVanRyseghem 12/14/2013 14:29",
+		"long" : "BenjaminVanRyseghem 12/14/2013 13:49",
+		"long:" : "BenjaminVanRyseghem 12/14/2013 14:30",
+		"match:" : "BenjaminVanRyseghem 12/16/2013 00:42",
+		"matchLong:" : "BenjaminVanRyseghem 12/16/2013 00:50",
+		"matchShort:" : "BenjaminVanRyseghem 12/16/2013 00:50",
+		"numberOfParameters" : "BenjaminVanRyseghem 12/14/2013 13:56",
+		"numberOfParameters:" : "BenjaminVanRyseghem 12/14/2013 13:56",
+		"printOn:" : "BenjaminVanRyseghem 12/14/2013 16:54",
+		"short" : "BenjaminVanRyseghem 12/14/2013 13:49",
+		"short:" : "BenjaminVanRyseghem 12/14/2013 13:49" } }

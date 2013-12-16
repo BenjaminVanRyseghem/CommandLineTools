@@ -1,0 +1,17 @@
+{
+	"category" : "CommandLineTools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"description",
+		"long",
+		"numberOfParameters",
+		"short" ],
+	"name" : "CLParameterDescription",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

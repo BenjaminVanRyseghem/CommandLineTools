@@ -1,0 +1,14 @@
+{
+	"category" : "CommandLineTools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CLParameterResolverWithMultipleInputs",
+	"pools" : [
+		 ],
+	"super" : "CLParameterResolver",
+	"type" : "normal" }

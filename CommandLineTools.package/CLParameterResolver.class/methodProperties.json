@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"resolveString:with:" : "BenjaminVanRyseghem 12/14/2013 17:03" },
+	"instance" : {
+		"argumentNotFound:" : "BenjaminVanRyseghem 12/14/2013 15:09",
+		"argumentsToResolve:" : "BenjaminVanRyseghem 12/14/2013 13:15",
+		"descriptions" : "BenjaminVanRyseghem 12/14/2013 14:00",
+		"descriptions:" : "BenjaminVanRyseghem 12/14/2013 13:58",
+		"ensureIsKeyword:" : "BenjaminVanRyseghem 12/16/2013 00:40",
+		"initialize" : "BenjaminVanRyseghem 12/14/2013 15:23",
+		"outputClass" : "BenjaminVanRyseghem 12/14/2013 15:24",
+		"popArgumentsFor:" : "BenjaminVanRyseghem 12/16/2013 01:41",
+		"resolve" : "BenjaminVanRyseghem 12/14/2013 15:17",
+		"resolve:" : "BenjaminVanRyseghem 12/16/2013 00:40",
+		"tokenIsNotAnArgument:" : "BenjaminVanRyseghem 12/14/2013 15:10" } }

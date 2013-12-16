@@ -1,0 +1,14 @@
+{
+	"category" : "CommandLineTools-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CLErrorTokenIsNotAnArgument",
+	"pools" : [
+		 ],
+	"super" : "CLTokenError",
+	"type" : "normal" }

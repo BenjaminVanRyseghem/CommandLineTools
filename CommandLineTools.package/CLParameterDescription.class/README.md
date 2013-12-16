@@ -1,0 +1,1 @@
+I am the description of a command line argument, with a short keyword (one character), a long keyword (a string), an optionnal description for the help, and the number of parameters I required

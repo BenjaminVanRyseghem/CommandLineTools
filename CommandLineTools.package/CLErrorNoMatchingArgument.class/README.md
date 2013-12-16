@@ -1,0 +1,1 @@
+I am an error raised when no argument description is found for the currently parsed argument
