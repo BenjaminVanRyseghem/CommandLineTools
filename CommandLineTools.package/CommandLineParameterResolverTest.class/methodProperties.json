@@ -5,7 +5,6 @@
 		"parseInput:" : "BenjaminVanRyseghem 12/16/2013 00:36",
 		"resolverClass" : "BenjaminVanRyseghem 12/14/2013 15:01",
 		"setUp" : "BenjaminVanRyseghem 12/14/2013 15:01",
-		"tearDown" : "BenjaminVanRyseghem 12/14/2013 14:34",
 		"testResolveBindsCorrectly" : "BenjaminVanRyseghem 12/16/2013 00:45",
 		"testResolveRequiresMoreParameterThatProvided" : "BenjaminVanRyseghem 12/16/2013 01:44",
 		"testResolveRequiresMoreParameterThatProvidedAndTokensIsEmpty" : "BenjaminVanRyseghem 12/16/2013 01:45",
